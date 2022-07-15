@@ -1,5 +1,5 @@
 header {
-    background: linear-gradient(180deg, #046519 0%, #181818 100%);
+    background: linear-gradient(180deg, #9400d3 0%, #d065dc1b 100%);
     height: 220px;
     display: flex;
     align-items: center;
@@ -17,11 +17,13 @@ header {
 }
 
 .dsmeta-logo-container h1 {
+    color: #000000;
     margin-top: 15px;
     font-size: 24px;
 }
 
 .dsmeta-logo-container p {
+    color: #000000;
     font-size: 14px;
     font-weight: 300;
 }
